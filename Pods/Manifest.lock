@@ -1,0 +1,20 @@
+PODS:
+  - GradientProgress (1.0)
+  - SoftUIView (0.0.3)
+
+DEPENDENCIES:
+  - GradientProgress
+  - SoftUIView
+
+SPEC REPOS:
+  trunk:
+    - GradientProgress
+    - SoftUIView
+
+SPEC CHECKSUMS:
+  GradientProgress: ee9c47443c80059b0367467d267b2dd9572de5e2
+  SoftUIView: 6c17070dae6e7216d26d3be4745bafd202cdfb75
+
+PODFILE CHECKSUM: b75416eca8111fab887e8a87f1a8e29902db16cf
+
+COCOAPODS: 1.10.0
